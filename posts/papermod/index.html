@@ -54,14 +54,10 @@
 </script>
 </head>
 
-<body class="list" id="top">
+<body class="list dark" id="top">
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
+    if (localStorage.getItem("pref-theme") === "light") {
         document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
     }
 
 </script>
@@ -70,34 +66,6 @@
         #theme-toggle,
         .top-link {
             display: none;
-        }
-
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: #1d1e20;
-                --entry: #2e2e33;
-                --primary: rgba(255, 255, 255, 0.84);
-                --secondary: rgba(255, 255, 255, 0.56);
-                --tertiary: rgba(255, 255, 255, 0.16);
-                --content: rgba(255, 255, 255, 0.74);
-                --hljs-bg: #2e2e33;
-                --code-bg: #37383e;
-                --border: #333;
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
         }
 
     </style>
@@ -132,23 +100,23 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="https://westleft.github.io/archives" title="Archive">
-                    <span>Archive</span>
+                <a href="https://westleft.github.io/archives" title="文章列表">
+                    <span>文章列表</span>
                 </a>
             </li>
             <li>
-                <a href="https://westleft.github.io/categories/" title="Categories">
-                    <span>Categories</span>
+                <a href="https://westleft.github.io/categories/" title="文章分類">
+                    <span>文章分類</span>
                 </a>
             </li>
             <li>
-                <a href="https://westleft.github.io/search/" title="Search (Alt &#43; /)" accesskey=/>
-                    <span>Search</span>
+                <a href="https://westleft.github.io/tags/" title="標籤">
+                    <span>標籤</span>
                 </a>
             </li>
             <li>
-                <a href="https://westleft.github.io/tags/" title="Tags">
-                    <span>Tags</span>
+                <a href="https://westleft.github.io/search/" title="站內搜尋">
+                    <span>站內搜尋</span>
                 </a>
             </li>
         </ul>
