@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PaperMod on 松果科技</title>
-    <link>https://westleft.github.io/tags/papermod/</link>
-    <description>Recent content in PaperMod on 松果科技</description>
+    <title>ddd on 松果科技</title>
+    <link>https://westleft.github.io/tags/ddd/</link>
+    <description>Recent content in ddd on 松果科技</description>
     <image>
       <url>https://i.imgur.com/drixSwk.png</url>
       <link>https://i.imgur.com/drixSwk.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://westleft.github.io/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://westleft.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Features</title>
-      <link>https://westleft.github.io/posts/</link>
+      <title>fgfg</title>
+      <link>https://westleft.github.io/posts/test/test/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://westleft.github.io/posts/</guid>
+      <guid>https://westleft.github.io/posts/test/test/</guid>
       <description>Get known about All Features in PaperMod</description>
     </item>
     

@@ -5,28 +5,9 @@
     <link>https://westleft.github.io/series/</link>
     <description>Recent content in Series on 松果科技</description>
     <image>
-      <url>https://image.flaticon.com/icons/png/512/2298/2298468.png</url>
-      <link>https://image.flaticon.com/icons/png/512/2298/2298468.png</link>
+      <url>https://i.imgur.com/drixSwk.png</url>
+      <link>https://i.imgur.com/drixSwk.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://westleft.github.io/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PaperMod</title>
-      <link>https://westleft.github.io/series/papermod/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://westleft.github.io/series/papermod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes Guide</title>
-      <link>https://westleft.github.io/series/themes-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://westleft.github.io/series/themes-guide/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://westleft.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
