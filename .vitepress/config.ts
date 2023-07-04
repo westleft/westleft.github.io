@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: '調味生活',
-  description: 'jytuty',
+  description: '你需要的佐料都在這裡。',
   // head: [
   //   ['script', {src: 'https://googletagmanager.com/...'}],
   //   ['script', {}, `gtag call here`]
