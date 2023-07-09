@@ -64,8 +64,7 @@ export default defineConfig({
             text: '🪂 廢文',
             collapsed: true,
             items: [
-              { text: 'Introduction', link: '/guide/' },
-              { text: 'Introduction', link: '/guide/' }
+              { text: '內向的我', link: 'posts/shit/introvert' }
             ]
           }
         ]
