@@ -11,7 +11,7 @@ export default createContentLoader('posts/**/*.md', {
               title: post.frontmatter.title,
               url: post.url,
               date: post.frontmatter.date,
-              tag: post.tag
+              tag: post.frontmatter.tag
           }
       })
   }

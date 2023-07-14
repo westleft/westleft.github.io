@@ -1,7 +1,7 @@
 ---
 title: Promise 筆記
-lang: en-US
 date: 2023-07-03
+tag: 前端
 ---
 
 ![](https://i.imgur.com/CaH3bOA.jpg)

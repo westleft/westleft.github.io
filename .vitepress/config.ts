@@ -11,7 +11,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '../assets/images/logo.png',
+    logo: 'https://raw.githubusercontent.com/westleft/westleft.github.io/main/assets/images/logo.png',
 
     nav: [
       { text: '所有文章', link: '/posts/' },
@@ -52,6 +52,7 @@ export default defineConfig({
                 text: 'Solidity',
                 collapsed: true,
                 items: [
+                  { text: '在 Hardhat 中測試 UUPS 合約', link: '/posts/blockchain/solidity/uups' },
                 ]
               },{
                 text: 'GameFi',

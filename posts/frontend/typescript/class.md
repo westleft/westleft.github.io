@@ -1,6 +1,7 @@
 ---
 title: 練習 TS 中的 class
 date: 2022-10-11
+tag: 前端
 ---
 
 # 練習 TS 中的 class
