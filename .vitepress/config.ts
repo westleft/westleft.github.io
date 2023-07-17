@@ -5,6 +5,7 @@ export default defineConfig({
   title: '調味生活',
   description: '你需要的佐料都在這裡。',
   head: [
+    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "https://raw.githubusercontent.com/westleft/westleft.github.io/main/assets/images/logo.png"}],
     ['script', {src: 'https://www.googletagmanager.com/gtag/js?id=G-PHMQXMVT1T'}],
   ],
 
