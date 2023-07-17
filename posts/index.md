@@ -19,6 +19,7 @@ import { data as posts } from './posts.data.js'
 li {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 li > p {

@@ -149,7 +149,7 @@ import "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol";
 import "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
 import "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol";
 
-contract Uups is Initializable, ERC1155Upgradeable, OwnableUpgradeable, UUPSUpgradeable {
+contract UupsV2 is Initializable, ERC1155Upgradeable, OwnableUpgradeable, UUPSUpgradeable {
     uint256 public myNumber;
 
     /// @custom:oz-upgrades-unsafe-allow constructor

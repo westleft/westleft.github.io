@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Welcome to 調味生活"
-  image: ./assets/images/logo.png
+  image: https://raw.githubusercontent.com/westleft/westleft.github.io/main/assets/images/logo.png
   # text: "A VitePress Site"
   tagline: 這是一個紀錄程式與廢文的部落格，跟食物沒關聯
   actions:

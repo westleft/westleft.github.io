@@ -4,10 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: '調味生活',
   description: '你需要的佐料都在這裡。',
-  // head: [
-  //   ['script', {src: 'https://googletagmanager.com/...'}],
-  //   ['script', {}, `gtag call here`]
-  // ],
+  head: [
+    ['script', {src: 'https://www.googletagmanager.com/gtag/js?id=G-PHMQXMVT1T'}],
+  ],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -58,6 +57,7 @@ export default defineConfig({
                 text: 'GameFi',
                 collapsed: true,
                 items: [
+                  { text: 'Wild Cash 遊玩心得', link: '/posts/blockchain/gamefi/wild_cash' },
                 ]
               }
             ]
