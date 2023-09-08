@@ -30,6 +30,7 @@ export default defineConfig({
                 collapsed: true,
                 items: [
                   { text: 'Promise', link: '/posts/frontend/javascript/promise' },
+                  { text: '聊天室增加超連結', link: '/posts/frontend/javascript/auto_link' },
                 ]
               },
               {
