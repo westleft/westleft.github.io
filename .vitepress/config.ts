@@ -64,6 +64,12 @@ export default defineConfig({
               }
             ]
           },{
+            text: '🛸 學習筆記',
+            collapsed: true,
+            items: [
+              { text: 'Linux 筆記', link: 'posts/other/linux' }              
+            ]
+          },{
             text: '🪂 廢文',
             collapsed: true,
             items: [
