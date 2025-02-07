@@ -61,6 +61,12 @@ export default defineConfig({
                 items: [
                   { text: 'Wild Cash 遊玩心得', link: '/posts/blockchain/gamefi/wild_cash' },
                 ]
+              },{
+                text: '其他',
+                collapsed: true,
+                items: [
+                  { text: 'RateX | 槓桿交易的 DEX 平台', link: '/posts/blockchain/other/ratex' },
+                ]
               }
             ]
           },{
