@@ -1,0 +1,1 @@
+import{j as t}from"./jsx-runtime.DVTPKKJG.js";import{m as a}from"./proxy.DQI_omlQ.js";import"./index.Wp2u197Z.js";function r(){return t.jsx(a.div,{className:"absolute -z-1 top-0 inset-x-0 h-[350px] bg-gradient-to-r from-accent/5 to-accent/15",style:{maskImage:"linear-gradient(black, transparent)"},initial:{opacity:0},animate:{opacity:1}})}export{r as HeadGradient};
