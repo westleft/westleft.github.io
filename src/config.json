@@ -1,0 +1,97 @@
+{
+  "site": {
+    "url": "https://gyoza.lxchapu.com",
+    "title": "Gyoza",
+    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
+    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "lang": "zh-CN",
+    "favicon": "/favicon.ico",
+    "appleTouchIcon": "/apple-touch-icon.png"
+  },
+  "author": {
+    "name": "West",
+    "twitterId": "@lxchapu",
+    "avatar": "https://i.imgur.com/OZsRCD0.jpeg"
+  },
+  "hero": {
+    "name": "West",
+    "bio": "I'm a garbage can, Not a Garbage cannot.",
+    "description": "尊重、包容、友善",
+    "socials": [
+      {
+        "name": "Github",
+        "icon": "icon-github",
+        "url": "https://github.com/westleft",
+        "color": "rgb(24, 23, 23)"
+      }
+    ],
+    "yiyan": "每一個你不滿意的現在，都有一個你沒有努力的曾經。"
+  },
+  "color": {
+    "accent": [
+      { "light": "#F55555", "dark": "#FCCF31" },
+      { "light": "#0396FF", "dark": "#ABDCFF" },
+      { "light": "#fb7287", "dark": "#99D8CF" },
+      { "light": "#F072B6", "dark": "#FFF886" },
+      { "light": "#9F44D3", "dark": "#E2B0FF" },
+      { "light": "#FF6666", "dark": "#A1CCD1" },
+      { "light": "#F6416C", "dark": "#838BC6" },
+      { "light": "#32CCBC", "dark": "#90F7EC" },
+      { "light": "#33A6B8", "dark": "#79F1A4" },
+      { "light": "#F55555", "dark": "#FCCF31" }
+    ],
+    "bg": {
+      "primary": { "light": "#ffffff", "dark": "#1c1c1e" },
+      "secondary": { "light": "#f4f4f5", "dark": "#27272a" }
+    },
+    "text": {
+      "primary": { "light": "#373a3c", "dark": "#ffffff" },
+      "secondary": { "light": "#71717a", "dark": "#d1d5db" }
+    },
+    "border": {
+      "primary": { "light": "#e4e4e7", "dark": "#3f3f46" }
+    }
+  },
+  "menus": [
+    {
+      "name": "首頁",
+      "link": "/",
+      "icon": "icon-pantone"
+    },
+    {
+      "name": "文章",
+      "link": "/archives",
+      "icon": "icon-archive"
+    },
+    {
+      "name": "關於我",
+      "link": "/about",
+      "icon": "icon-ghost"
+    }
+  ],
+  "posts": {
+    "perPage": 10
+  },
+  "footer": {
+    "startTime": "2025-05-12T00:00:00Z"
+  },
+  "waline": {
+    "serverURL": "https://waline.lxchapu.com"
+  },
+  "sponsor": {
+    "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
+  },
+  "analytics": {
+    "enable": false,
+    "google": {
+      "measurementId": ""
+    },
+    "umami": {
+      "serverUrl": "",
+      "websiteId": ""
+    },
+    "microsoftClarity": {
+      "projectId": ""
+    }
+  }
+}
