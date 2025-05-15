@@ -1,4 +1,4 @@
-import { sponsor, site } from '@/config.json'
+import { site } from '@/config.json'
 import { motion } from 'framer-motion'
 import * as QR from 'qrcode.react'
 import { useAtomValue } from 'jotai'
@@ -140,7 +140,6 @@ function DonateContent() {
           className="object-cover"
           width={300}
           height={300}
-          src={sponsor.wechat}
           alt="微信赞赏码"
           loading="lazy"
           decoding="async"
