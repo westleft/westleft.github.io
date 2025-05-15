@@ -54,5 +54,6 @@ export default defineConfig({
         external: ['/pagefind/pagefind.js'],
       },
     },
+    publicDir: 'public',
   },
 })
