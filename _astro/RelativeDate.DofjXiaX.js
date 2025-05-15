@@ -1,0 +1,1 @@
+import{j as o}from"./jsx-runtime.BMN_4_xO.js";import{a as i,b as m}from"./date.a9lsa3kJ.js";import{r}from"./index.CMQ3OGCn.js";function c({date:t}){const[a,s]=r.useState(i(t));return r.useEffect(()=>{const e=m(t);e&&s(e)},[t]),o.jsx("span",{children:a})}export{c as RelativeDate};

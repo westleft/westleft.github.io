@@ -1,4 +1,4 @@
-import{j as u}from"./jsx-runtime.DVTPKKJG.js";import{r as e}from"./index.Wp2u197Z.js";function d(){const[s,n]=e.useState(0),[a,i]=e.useState(0),t=!window.matchMedia("(hover: hover)").matches;if(t)return null;const c=`radial-gradient(
+import{j as u}from"./jsx-runtime.BMN_4_xO.js";import{r as e}from"./index.CMQ3OGCn.js";function d(){const[s,n]=e.useState(0),[a,i]=e.useState(0),t=!window.matchMedia("(hover: hover)").matches;if(t)return null;const c=`radial-gradient(
     circle 16vmax at ${s}px ${a}px,
     rgba(0, 0, 0, 0) 0%,
     rgba(0, 0, 0, 0.5) 80%,

@@ -4,4 +4,4 @@ Allow: /
 Disallow: /_astro/
 Disallow: /fonts/
 
-Sitemap: https://gyoza.lxchapu.com/sitemap-index.xml
+Sitemap: https://seasoning.dev/sitemap-index.xml
