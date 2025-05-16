@@ -24,6 +24,7 @@ const { title, description, image } = Astro.props
 <!doctype html>
 <html lang={site.lang}>
   <head>
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
     <CommonHead title={title} description={description} image={image} />
     <WebAnalytics />
     <ThemeLoader />
