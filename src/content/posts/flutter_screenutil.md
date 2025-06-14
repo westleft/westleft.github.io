@@ -3,7 +3,7 @@ title: Flutter 筆記
 date: 2025-05-30
 summary: 久久寫一次 Flutter，專案初始化的時候每次都忘記套件要怎麼用，這篇記錄一下。
 category: 前端
-tags: [javascript]
+tags: [flutter]
 ---
 
 久久寫一次 Flutter，專案初始化的時候每次都忘記套件要怎麼用，這篇記錄一下。
