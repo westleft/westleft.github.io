@@ -1,7 +1,7 @@
 ---
 title: Anchor macro
 date: 2025-06-14
-summary: ' s'
+summary: '關於 Solana Anchor 中的 #[program] 和 #[derive(Accounts)]。'
 category: 前端
 tags: [solana]
 ---
@@ -126,4 +126,4 @@ pub struct MyAccount {
 }
 ```
 
-> https://docs.rs/anchor-lang/latest/anchor_lang/derive.Accounts.html
+> 更多：[連結](https://docs.rs/anchor-lang/latest/anchor_lang/derive.Accounts.html)
