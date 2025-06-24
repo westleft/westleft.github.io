@@ -1,7 +1,7 @@
 ---
 title: Supabase 讀取使用者的資料表
 date: 2025-06-22
-summary: sss
+summary: Supabase提供了非常方便的登入功能，而且還整合了許多第三方登入，前端在註冊成功後會新增到 Supabase 內建的 Auth 這張資料表...
 category: 前端
 tags: [javascript]
 ---
