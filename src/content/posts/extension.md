@@ -51,3 +51,11 @@ tags: [other]
 ![](https://i.meee.com.tw/L77DxrH.png)
 
 點進去就會自己建立出資源了。
+
+## 上架或更新
+
+只要發送申請，通過或失敗都會收到信件（可以在設定中開啟關閉），如下圖：
+
+![](https://i.meee.com.tw/iSnXLSB.png)
+
+像我自己是設定全開，使用者如果評論我的 extension 也會在信箱中收到。
