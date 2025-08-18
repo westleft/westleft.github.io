@@ -3,7 +3,7 @@ title: Typescript 中的 satisfies
 date: 2025-08-12
 summary: TypeScript 自 4.9 起引入了 satisfies 運算子，它能夠在保持變數精確推斷類型的同時，又強制檢查值符合指定型別。這避免了傳統標註或 as 斷言可能導致的過度寬鬆或錯誤隱藏問題...
 category: 前端
-tags: [javascript]
+tags: [typescript]
 ---
 
 # satisfies
